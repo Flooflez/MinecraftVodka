@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "G#G",
+    "GWG"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:potato"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone",
+    "count": 1
+  }
+}
