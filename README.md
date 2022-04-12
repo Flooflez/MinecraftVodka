@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# Minecraft Vodka
 
-## Setup
+## This mod adds an edible Vodka bottle to Minecraft for my friend Sean, who also modelled the bottle.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the MIT
